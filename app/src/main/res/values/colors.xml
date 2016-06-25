@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#ff0000</color>
+    <color name="action_bar_background">#3F51B5</color>
+
+    <color name="title_background">#333333</color>
+    <color name="bottom_background">#666666</color>
+    <color name="social_text">#666666</color>
+    <color name="divider_line_top">#c7c6c6</color>
+    <color name="divider_line_bottom">#f6f6f6</color>
+    <color name="photo_cost_background">#35b459</color>
+    <color name="search_background">#525252</color>
+    <color name="customer_service">#004276</color>
+    <color name="text_message">#222222</color>
+    <color name="progress_indicator_start">#C0C0C0</color>
+    <color name="progress_indicator_end">#FFFFFF</color>
+    <color name="text_shadow">#ffffff</color>
+    <color name="message_detail_image">#303234</color>
+    <color name="composer_background">#ededed</color>
+    <color name="message_char_indicator">#08ad56</color>
+    <color name="msg_cost_hint">#d3d3d3</color>
+    <color name="photo_upload_hint">#C9C9C9</color>
+    <color name="loading_background">#88ededed</color>
+
+    <color name="black">#000000</color>
+    <color name="drawer_border">#493d3d</color>
+    <color name="dark_purple_brown">#5d4e4e</color>
+    <color name="blue">#579eaa</color>
+    <color name="dark_orange">#ea5e3d</color>
+    <color name="beige">#f5f2e8</color>
+    <color name="light_gray_beige">#e4e1dd</color>
+    <color name="dark_beige">#a79d87</color>
+    <color name="light_beige">#d9d6ce</color>
+    <color name="green">#6ca439</color>
+    <color name="dark_green">#4e7629</color>
+    <color name="dark_gray">#8e8e93</color>
+    <color name="light_gray">#c8c8cd</color>
+    <color name="yellow">#f5ad20</color>
+    <color name="white">#f7f7f7</color>
+</resources>

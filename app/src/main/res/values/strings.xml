@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photo List</string>
+
+    <string name="loading">Loading…</string>
+    <string name="photos_search_hint">Search for photos</string>
+
+    <string name="error_title">Server Error</string>
+    <string name="error_text">Unexpected response from server:</string>
+    <string name="photo_get_error">Something unexpected happened. We were not able to display the list of photos. Please try again.</string>
+</resources>
